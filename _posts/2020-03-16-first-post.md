@@ -21,6 +21,6 @@ rzp.capture(payment_id, cost)
 	})
 ```
 
-You can visit my [homepage]!
+You can visit my [homepage][Homepage]!
 
-[jekyll-docs]: https://butterflysohyun.com
+[Homepage]: https://butterflysohyun.com
