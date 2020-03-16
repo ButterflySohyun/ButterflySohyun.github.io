@@ -17,9 +17,9 @@ plainwhite:
 
   # generate social links in footer
   social_links:
+    twitter: 
     github:  ButterflySohyun
-    instagram: mhswsh474899
-    linkedIn: in/thelehhman
+    linkedIn: in/Sohyun Park
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
