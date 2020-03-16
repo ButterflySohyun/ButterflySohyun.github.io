@@ -8,4 +8,4 @@ categories: ButterflySohyun initial post webdeveloper atmosphericscience seoul g
 
 You can visit my [homepage][Homepage]!
 
-[Homepage]: https://butterflysohyun.com
+[Homepage]: http://butterflysohyun.com/
